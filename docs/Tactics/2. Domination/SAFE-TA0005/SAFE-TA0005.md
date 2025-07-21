@@ -1,37 +1,38 @@
 ---
-id:
-  SAFE-TA: 
-title: 
-status:
-  draft/review/publish: 
-version:
-  version: 
-author: 
+id: SAFE-TA0005
+title: Control
+category: Domination
+status: draft
+version: 0.1
+author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20
 tags:
 ---
 
-# SAFE-TA000X - {{Tactic Name}}
+# SAFE-TA0005 - Control
 
 ## Summary
-{{A high-level behavioural pattern used to initiate or sustain abuse, composed of one or more techniques.}}
+Control involves the active restriction of the target’s autonomy, access to resources, and ability to resist. Techniques in this stage reduce escape potential and enforce submission.
+
 ## Objective
-{{What is the intended outcome from the abuser’s point of view?}}
+To dominate the victim’s behaviour and choices through restriction, fear, and manipulation.
 
 ## Characteristics
-- Category: {{Priming / Domination / Perpetuation}}
-- Contexts observed: {{Domestic violence, coercive control, cultic systems, online abuse, etc.}}
-- Abuser capabilities required: {{e.g., social engineering, digital manipulation}}
+* Category: Domination
+* Contexts observed: Domestic violence, cult control, tech-facilitated abuse
+* Abuser capabilities required: Surveillance, coercion, boundary enforcement
 
 ## References
-{{Supporting material: case law, reports, psychology, lived experience}}
+* Coercive control legal frameworks
+* Case law on financial and digital abuse
+* Surveillance capitalism literature
 
-# Techniques 
-Table of techniques related to this tactic. 
+# Techniques
 
-| ID  | S:ID | Name | Description |
-| --- | ---- | ---- | ----------- |
-|     |      |      |             |
-
-
+| ID        | S\:ID | Name                    | Description                                                   |
+| --------- | ----- | ----------------------- | ------------------------------------------------------------- |
+| SAFE-T018 |       | Financial Control       | Restricting or monitoring access to money and resources.      |
+| SAFE-T019 |       | Tech Surveillance       | Monitoring devices, messages, or online behaviour.            |
+| SAFE-T020 |       | Threat Conditioning     | Using fear or implied violence to influence decisions.        |
+| SAFE-T021 |       | Information Restriction | Controlling access to facts, education, or external opinions. |

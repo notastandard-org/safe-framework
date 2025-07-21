@@ -1,37 +1,38 @@
 ---
-id:
-  SAFE-TA: 
-title: 
-status:
-  draft/review/publish: 
-version:
-  version: 
-author: 
+id: SAFE-TA0004
+title: Integration
+category: Domination
+status: draft
+version: 0.1
+author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20
 tags:
 ---
 
-# SAFE-TA000X - {{Tactic Name}}
+# SAFE-TA0004 - Integration
 
 ## Summary
-{{A high-level behavioural pattern used to initiate or sustain abuse, composed of one or more techniques.}}
+Integration embeds the abuser into the target's life, establishing access, control, and interdependence. The abuser positions themselves as indispensable, weaving themselves into personal, emotional, or logistical systems.
+
 ## Objective
-{{What is the intended outcome from the abuser’s point of view?}}
+To consolidate presence and influence in the victim’s daily life, creating reliance and reducing escape paths.
 
 ## Characteristics
-- Category: {{Priming / Domination / Perpetuation}}
-- Contexts observed: {{Domestic violence, coercive control, cultic systems, online abuse, etc.}}
-- Abuser capabilities required: {{e.g., social engineering, digital manipulation}}
+* Category: Domination
+* Contexts observed: Intimate partner violence, cult induction, workplace coercion
+* Abuser capabilities required: Deceptive bonding, manipulation of dependency structures
 
 ## References
-{{Supporting material: case law, reports, psychology, lived experience}}
+* IPV case documentation
+* Codependency studies
+* Cult leader behavioural models
 
-# Techniques 
-Table of techniques related to this tactic. 
+# Techniques
 
-| ID  | S:ID | Name | Description |
-| --- | ---- | ---- | ----------- |
-|     |      |      |             |
-
-
+| ID        | S\:ID | Name                    | Description                                                                    |
+| --------- | ----- | ----------------------- | ------------------------------------------------------------------------------ |
+| SAFE-T014 |       | Emotional Enmeshment    | Artificial creation of deep emotional bonds to bind the victim.                |
+| SAFE-T015 |       | Control via Necessity   | Positioning as the provider of key needs (housing, income, emotional support). |
+| SAFE-T016 |       | Isolation Encouragement | Encouraging withdrawal from external supports.                                 |
+| SAFE-T017 |       | Ritualised Dependence   | Establishing routines or shared symbols to create psychological anchors.       |

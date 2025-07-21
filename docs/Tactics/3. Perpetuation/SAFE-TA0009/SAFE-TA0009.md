@@ -1,37 +1,38 @@
 ---
-id:
-  SAFE-TA: 
-title: 
-status:
-  draft/review/publish: 
-version:
-  version: 
-author: 
+id: SAFE-TA0009
+title: Recidivism
+category: Perpetuation
+status: draft
+version: 0.1
+author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20
 tags:
 ---
 
-# SAFE-TA000X - {{Tactic Name}}
+# SAFE-TA0009 - Recidivism
 
 ## Summary
-{{A high-level behavioural pattern used to initiate or sustain abuse, composed of one or more techniques.}}
+Recidivism is the cyclical re-entry into abusive dynamics, either with the same or new targets. It reflects an abuser's pattern of repeated behaviours over time, often reinforced by impunity or unaddressed pathology.
+
 ## Objective
-{{What is the intended outcome from the abuser’s point of view?}}
+To continue exploitative or abusive behaviours across time and relationships, reinforcing the abuser's identity, control, or coping strategy.
 
 ## Characteristics
-- Category: {{Priming / Domination / Perpetuation}}
-- Contexts observed: {{Domestic violence, coercive control, cultic systems, online abuse, etc.}}
-- Abuser capabilities required: {{e.g., social engineering, digital manipulation}}
+- Category: Perpetuation
+- Contexts observed: Serial abusers, community infiltration, repeated grooming cycles
+- Abuser capabilities required: Grooming, gaslighting, compartmentalisation, denial of accountability
 
 ## References
-{{Supporting material: case law, reports, psychology, lived experience}}
+- Serial abuse psychology
+- Grooming pattern repetition
+- DV recidivism statistics and case law
 
 # Techniques 
-Table of techniques related to this tactic. 
 
-| ID  | S:ID | Name | Description |
-| --- | ---- | ---- | ----------- |
-|     |      |      |             |
-
-
+| ID       | S:ID | Name                   | Description |
+|----------|------|------------------------|-------------|
+| SAFE-T034 |      | Victim Pattern Mapping | Identifying victim types or traits for repeated targeting. |
+| SAFE-T035 |      | Narrative Reset        | Reinventing history or persona to reinitiate abusive cycles. |
+| SAFE-T036 |      | Recycle & Reengage     | Targeting past victims after cooling-off periods. |
+| SAFE-T037 |      | Community Reset        | Moving through different social or digital communities to avoid consequences. |

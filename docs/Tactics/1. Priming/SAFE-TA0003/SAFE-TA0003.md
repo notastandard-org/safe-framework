@@ -1,37 +1,38 @@
 ---
-id:
-  SAFE-TA: 
-title: 
-status:
-  draft/review/publish: 
-version:
-  version: 
-author: 
+id: SAFE-TA0003
+title: Conditioning
+category: Priming
+status: draft
+version: 0.1
+author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20
 tags:
 ---
 
-# SAFE-TA000X - {{Tactic Name}}
+# SAFE-TA0003 - Conditioning
 
 ## Summary
-{{A high-level behavioural pattern used to initiate or sustain abuse, composed of one or more techniques.}}
+Conditioning prepares the target to accept future abuse through grooming, repeated exposure, and normalisation of control. It reduces the target's psychological defences and establishes reward/punishment cycles.
+
 ## Objective
-{{What is the intended outcome from the abuser’s point of view?}}
+To desensitise the target to manipulation, increase dependency, and break down resistance.
 
 ## Characteristics
-- Category: {{Priming / Domination / Perpetuation}}
-- Contexts observed: {{Domestic violence, coercive control, cultic systems, online abuse, etc.}}
-- Abuser capabilities required: {{e.g., social engineering, digital manipulation}}
+* Category: Priming
+* Contexts observed: Grooming, coercive control, trafficking, cult indoctrination
+* Abuser capabilities required: Emotional manipulation, behavioural reinforcement, misdirection
 
 ## References
-{{Supporting material: case law, reports, psychology, lived experience}}
+* Grooming patterns in child exploitation
+* Psychological abuse case files
+* Cult recruitment literature
 
-# Techniques 
-Table of techniques related to this tactic. 
+# Techniques
 
-| ID  | S:ID | Name | Description |
-| --- | ---- | ---- | ----------- |
-|     |      |      |             |
-
-
+| ID        | S\:ID | Name                         | Description                                                           |
+| --------- | ----- | ---------------------------- | --------------------------------------------------------------------- |
+| SAFE-T010 |       | Gaslighting Seeds            | Subtle distortions of reality introduced to weaken self-trust.        |
+| SAFE-T011 |       | Reward-Punishment Cycles     | Establishing behavioural conditioning loops with praise or rejection. |
+| SAFE-T012 |       | Incremental Boundary Testing | Gradual erosion of personal, emotional, or physical boundaries.       |
+| SAFE-T013 |       | Mimicry & Mirroring          | Creating false rapport to gain emotional leverage.                    |

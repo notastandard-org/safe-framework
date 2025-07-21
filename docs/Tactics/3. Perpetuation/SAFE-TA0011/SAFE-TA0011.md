@@ -1,37 +1,38 @@
 ---
-id:
-  SAFE-TA: 
-title: 
-status:
-  draft/review/publish: 
-version:
-  version: 
-author: 
+id: SAFE-TA0011
+title: Disengagement
+category: Collapse
+status: draft
+version: 0.1
+author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20
 tags:
 ---
 
-# SAFE-TA000X - {{Tactic Name}}
+# SAFE-TA0011 - Disengagement
 
 ## Summary
-{{A high-level behavioural pattern used to initiate or sustain abuse, composed of one or more techniques.}}
+Disengagement occurs when the abuser begins to withdraw from the active abuse cycle, either strategically or due to external factors. This may be accompanied by manipulation to preserve power post-separation or maintain latent control.
+
 ## Objective
-{{What is the intended outcome from the abuser’s point of view?}}
+To reduce effort or visibility while retaining some form of dominance or residual impact on the victim’s life.
 
 ## Characteristics
-- Category: {{Priming / Domination / Perpetuation}}
-- Contexts observed: {{Domestic violence, coercive control, cultic systems, online abuse, etc.}}
-- Abuser capabilities required: {{e.g., social engineering, digital manipulation}}
+- Category: Collapse
+- Contexts observed: Relationship breakdown, post-separation abuse, cult collapse
+- Abuser capabilities required: Strategic silence, passive control, exit manipulation
 
 ## References
-{{Supporting material: case law, reports, psychology, lived experience}}
+- Separation abuse frameworks
+- Legal disengagement with hidden control
+- Coercive closure behaviours
 
 # Techniques 
-Table of techniques related to this tactic. 
 
-| ID  | S:ID | Name | Description |
-| --- | ---- | ---- | ----------- |
-|     |      |      |             |
-
-
+| ID       | S:ID | Name                   | Description |
+|----------|------|------------------------|-------------|
+| SAFE-T042 |      | Strategic Withdrawal   | Pulling back to appear cooperative or harmless. |
+| SAFE-T043 |      | Post-Separation Control| Using shared children, assets, or legal systems to maintain control. |
+| SAFE-T044 |      | Emotional Ghosting     | Sudden disengagement to destabilise and harm. |
+| SAFE-T045 |      | Legacy Seeding         | Planting ideas, fears, or tasks that persist after departure. |

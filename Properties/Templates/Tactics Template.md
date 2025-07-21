@@ -1,11 +1,12 @@
 ---
-id: {SAFE-TA}
+id: SAFE-TA
 title: 
-status: {draft/review/publish}
-version: {version}
-author:
-created: {{date:YYYY-MM-DD}}
-modified: {{date:YYYY-MM-DD}}
+category: 
+status: draft/review/publish
+version: 0.1
+author: 
+created: 
+modified: 
 tags:
 ---
 

@@ -81,7 +81,7 @@ Abuse ends — either due to burnout, exposure, systemic intervention, or loss o
 
 ```mermaid
 flowchart TD
-    A[Formation] --> B[Discovery]
+    A[[Formation]] --> B[Discovery]
     B --> C[Conditioning]
     C --> D[Integration]
     D --> E[Control]

@@ -3,7 +3,7 @@ id: SAFE-TA0001
 title: Formation
 category: Priming
 status: Draft
-version: "0.1"
+version: 0.1
 author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20

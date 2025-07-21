@@ -1,37 +1,42 @@
 ---
-id:
-  SAFE-TA: 
-title: 
-status:
-  draft/review/publish: 
-version:
-  version: 
-author: 
+id: SAFE-TA0006
+title: Execution
+category: Domination
+status: draft
+version: 0.1
+author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20
 tags:
 ---
 
-# SAFE-TA000X - {{Tactic Name}}
+# SAFE-TA0006 - Execution
 
 ## Summary
-{{A high-level behavioural pattern used to initiate or sustain abuse, composed of one or more techniques.}}
+
+Execution refers to the overt carrying out of abusive acts—emotional, physical, digital, or psychological. This is often the most visible phase, where intent and pattern converge into harm.
+
 ## Objective
-{{What is the intended outcome from the abuser’s point of view?}}
+
+To inflict damage, enforce compliance, or escalate fear.
 
 ## Characteristics
-- Category: {{Priming / Domination / Perpetuation}}
-- Contexts observed: {{Domestic violence, coercive control, cultic systems, online abuse, etc.}}
-- Abuser capabilities required: {{e.g., social engineering, digital manipulation}}
+
+* Category: Domination
+* Contexts observed: Domestic violence, revenge porn, public shaming, hate crimes
+* Abuser capabilities required: Intent to harm, method access, loss of inhibition
 
 ## References
-{{Supporting material: case law, reports, psychology, lived experience}}
 
-# Techniques 
-Table of techniques related to this tactic. 
+* IPV escalation models
+* Police reports on violent episodes
+* Technology-facilitated abuse studies
 
-| ID  | S:ID | Name | Description |
-| --- | ---- | ---- | ----------- |
-|     |      |      |             |
+# Techniques
 
-
+| ID        | S\:ID | Name                      | Description                                                     |
+| --------- | ----- | ------------------------- | --------------------------------------------------------------- |
+| SAFE-T022 |       | Physical Assault          | Use of force to dominate or punish.                             |
+| SAFE-T023 |       | Public Exposure           | Sharing private material to shame or isolate.                   |
+| SAFE-T024 |       | Forced Compliance         | Compelling actions through blackmail, threats, or manipulation. |
+| SAFE-T025 |       | Psychological Degradation | Intentional targeting of the victim’s self-worth.               |

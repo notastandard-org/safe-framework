@@ -1,37 +1,38 @@
 ---
-id:
-  SAFE-TA: 
-title: 
-status:
-  draft/review/publish: 
-version:
-  version: 
-author: 
+id: SAFE-TA0008
+title: Exploitation
+category: Perpetuation
+status: draft
+version: 0.1
+author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20
 tags:
 ---
 
-# SAFE-TA000X - {{Tactic Name}}
+# SAFE-TA0008 - Exploitation
 
 ## Summary
-{{A high-level behavioural pattern used to initiate or sustain abuse, composed of one or more techniques.}}
+Exploitation involves leveraging the victim’s vulnerabilities, emotional investment, or digital/material resources for personal gain. This may include financial abuse, reputational control, or social manipulation.
+
 ## Objective
-{{What is the intended outcome from the abuser’s point of view?}}
+To extract value from the victim—emotional, financial, reputational, or labour-based—without consent or reciprocity.
 
 ## Characteristics
-- Category: {{Priming / Domination / Perpetuation}}
-- Contexts observed: {{Domestic violence, coercive control, cultic systems, online abuse, etc.}}
-- Abuser capabilities required: {{e.g., social engineering, digital manipulation}}
+- Category: Perpetuation
+- Contexts observed: Financial abuse, revenge porn, forced labour, spiritual exploitation
+- Abuser capabilities required: Deceit, manipulation, entitlement, emotional blackmail
 
 ## References
-{{Supporting material: case law, reports, psychology, lived experience}}
+- Financial control in abusive relationships
+- Reports on digital exploitation (e.g. non-consensual image sharing)
+- Coerced social media posting / online persona curation
 
 # Techniques 
-Table of techniques related to this tactic. 
 
-| ID  | S:ID | Name | Description |
-| --- | ---- | ---- | ----------- |
-|     |      |      |             |
-
-
+| ID       | S:ID | Name                   | Description |
+|----------|------|------------------------|-------------|
+| SAFE-T030 |      | Emotional Extraction   | Forcing emotional labour (e.g., therapy, support) without reciprocity. |
+| SAFE-T031 |      | Reputation Leverage    | Using the victim’s name, image, or persona for personal benefit. |
+| SAFE-T032 |      | Financial Extraction   | Taking money, assets, or debt in the victim’s name. |
+| SAFE-T033 |      | Digital Content Abuse  | Co-opting or weaponising digital content involving the victim. |

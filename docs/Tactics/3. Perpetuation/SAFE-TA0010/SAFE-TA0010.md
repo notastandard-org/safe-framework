@@ -1,37 +1,38 @@
 ---
-id:
-  SAFE-TA: 
-title: 
-status:
-  draft/review/publish: 
-version:
-  version: 
-author: 
+id: SAFE-TA0010
+title: Propagation
+category: Perpetuation
+status: draft
+version: 0.1
+author: Ben Menzies
 created: 2025-07-20
 modified: 2025-07-20
 tags:
 ---
 
-# SAFE-TA000X - {{Tactic Name}}
+# SAFE-TA0010 - Propagation
 
 ## Summary
-{{A high-level behavioural pattern used to initiate or sustain abuse, composed of one or more techniques.}}
+Propagation refers to the transmission or reinforcement of abusive patterns across networks, families, or generations. This includes normalising behaviours, recruiting allies, and shaping environments that enable the abuse to persist or expand.
+
 ## Objective
-{{What is the intended outcome from the abuser’s point of view?}}
+To ensure abusive ideologies, methods, or patterns spread to others, sustaining the cycle beyond the original abuser-victim relationship.
 
 ## Characteristics
-- Category: {{Priming / Domination / Perpetuation}}
-- Contexts observed: {{Domestic violence, coercive control, cultic systems, online abuse, etc.}}
-- Abuser capabilities required: {{e.g., social engineering, digital manipulation}}
+- Category: Perpetuation
+- Contexts observed: Intergenerational abuse, cultic recruitment, mobbing, ideological grooming
+- Abuser capabilities required: Indoctrination, manipulation, cultural embedding, influence
 
 ## References
-{{Supporting material: case law, reports, psychology, lived experience}}
+- Intergenerational trauma research
+- Bystander recruitment and enabling dynamics
+- Social contagion in abuse
 
 # Techniques 
-Table of techniques related to this tactic. 
 
-| ID  | S:ID | Name | Description |
-| --- | ---- | ---- | ----------- |
-|     |      |      |             |
-
-
+| ID       | S:ID | Name                   | Description |
+|----------|------|------------------------|-------------|
+| SAFE-T038 |      | Generational Grooming  | Conditioning children or dependents to adopt abusive worldviews. |
+| SAFE-T039 |      | Flying Monkeying       | Recruiting others to monitor or harass the target. |
+| SAFE-T040 |      | Cultural Embedding     | Using ideology, religion, or tradition to justify abuse. |
+| SAFE-T041 |      | Normalisation Through Repetition | Repeating harmful narratives until accepted as normal. |

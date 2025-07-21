@@ -1,14 +1,14 @@
 ---
-id: {SAFE-TXXXX.xxxx}
-parent: {SAFE-TXXXX}
-tactic: {SAFE-TAXXXX}
+id: SAFE-TXXXX.xxxx
+parent: SAFE-TXXXX
+tactic: SAFE-TAXXXX
 title: 
 type:
-status: {draft/review/publish}
-version: {{version}}
+status: draft/review/publish
+version: 0.1
 author:
-created: {{date:YYYY-MM-DD}}
-modified: {{date:YYYY-MM-DD}}
+created: yyyy-mm-dd
+modified: yyyy-mm-dd
 tags:
 ---
 
