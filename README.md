@@ -61,8 +61,8 @@ To contribute:
 ## 🧠 Credits
 
 Maintained by **Not A Standard Org**  
-Visit: [https://github.com/notastandard-org](https://github.com/notastandard-org)
-Site: [https://notastandard.org](https://notastandard.org/)
-Contact: SAFEFramework@notastandard.org
+- Visit: [https://github.com/notastandard-org](https://github.com/notastandard-org)
+- Site: [https://notastandard.org](https://notastandard.org/)
+- Contact: SAFEFramework@notastandard.org
 
 ---
