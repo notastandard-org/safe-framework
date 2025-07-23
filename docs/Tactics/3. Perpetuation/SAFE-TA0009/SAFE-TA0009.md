@@ -4,7 +4,7 @@ title: Recidivism
 category: Perpetuation
 status: draft
 version: 0.1
-author: Ben Menzies
+author: Ben Menzies (benzies)
 created: 2025-07-20
 modified: 2025-07-20
 tags:
@@ -28,7 +28,7 @@ To continue exploitative or abusive behaviours across time and relationships, re
 - Grooming pattern repetition
 - DV recidivism statistics and case law
 
-# Techniques 
+# Techniques
 
 | ID       | S:ID | Name                   | Description |
 |----------|------|------------------------|-------------|

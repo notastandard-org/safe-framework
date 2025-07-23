@@ -1,17 +1,30 @@
-# Welcome to MkDocs
+# Welcome to SAFE
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# SAFE-T Framework Index
 
-## Commands
+| Tactic ID       | Tactic Name  | Technique ID        | Technique Title | Related Frameworks |
+| --------------- | ------------ | ------------------- | --------------- | ------------------ |
+| [[SAFE-TA0001]] | Formation    | [[SAFE-T0001]]      |                 |                    |
+|                 |              | [[SAFE-T0002]]      |                 |                    |
+|                 |              | [[SAFE-T0003]]      |                 |                    |
+|                 |              | [[SAFE-T0004]]      |                 |                    |
+|                 |              | [[SAFE-T0005]]      |                 |                    |
+| [[SAFE-TA0002]] | Discovery    | [[SAFE-T0006]]      |                 |                    |
+|                 |              | [[SAFE-T0007]]      |                 |                    |
+|                 |              | [[SAFE-T0008]]      |                 |                    |
+|                 |              | [[SAFE-T0009]]      |                 |                    |
+|                 |              | [[SAFE-T0010]]      |                 |                    |
+| [[SAFE-TA0003]] | Conditioning | [[SAFE-T0011]]      |                 |                    |
+|                 |              | [[SAFE-T0012]]      |                 |                    |
+|                 |              | [[SAFE-T0013]]      |                 |                    |
+|                 |              | [[SAFE-T0014]]      |                 |                    |
+|                 |              | [[SAFE-T0015]]      |                 |                    |
+| [[SAFE-TA0005]] | Control      | [[SAFE-T0016]]      |                 |                    |
+|                 |              | [[SAFE-T0017]]      |                 |                    |
+|                 |              | [[SAFE-T0018]]      |                 |                    |
+| [[SAFE-TA0006]] | Execution    | [[SAFE-T0019]]      |                 |                    |
+|                 |              | [[SAFE-T0020]]      |                 |                    |
+| [[SAFE-TA0007]] | Exploitation | *(To be generated)* |                 |                    |
+| [[SAFE-TA0008]] | Recidivism   | *(To be generated)* |                 |                    |
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

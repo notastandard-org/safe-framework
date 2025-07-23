@@ -4,9 +4,10 @@ title: Formation
 category: Priming
 status: Draft
 version: 0.1
-author: Ben Menzies
+author: Ben Menzies (benzies)
 created: 2025-07-20
 modified: 2025-07-20
+relationships: Mitre ATT&CK, etc
 tags:
   - formation
   - control
@@ -36,8 +37,8 @@ To embed early behavioural, psychological, or cultural foundations that predispo
 - Gender role socialisation research
 - Case studies on abuser origin stories in domestic violence reports
 
-# Techniques 
-Table of techniques related to this tactic. 
+# Techniques
+Table of techniques related to this tactic.
 
 | ID             | S:ID | Name                            | Description                                                                                                         |
 | -------------- | ---- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -46,7 +47,3 @@ Table of techniques related to this tactic.
 | [[SAFE-T0003]] |      | Trauma Conditioning             | Experiences of trauma that dysregulate attachment, empathy, or impulse control.                                     |
 | [[SAFE-T0004]] |      | Modelling of Control Behaviours | Emulation of dominant/controlling figures in media, family, or community settings.                                  |
 | [[SAFE-T0005]] |      | Reinforcement of Entitlement    | Repeated social cues that validate power imbalances or enforce rigid hierarchies.                                   |
-
-
-
-

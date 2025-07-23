@@ -4,7 +4,7 @@ title: Conditioning
 category: Priming
 status: draft
 version: 0.1
-author: Ben Menzies
+author: Ben Menzies (benzies)
 created: 2025-07-20
 modified: 2025-07-20
 tags:

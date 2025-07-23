@@ -4,7 +4,7 @@ title: Disengagement
 category: Collapse
 status: draft
 version: 0.1
-author: Ben Menzies
+author: Ben Menzies (benzies)
 created: 2025-07-20
 modified: 2025-07-20
 tags:
@@ -28,7 +28,7 @@ To reduce effort or visibility while retaining some form of dominance or residua
 - Legal disengagement with hidden control
 - Coercive closure behaviours
 
-# Techniques 
+# Techniques
 
 | ID       | S:ID | Name                   | Description |
 |----------|------|------------------------|-------------|

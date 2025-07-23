@@ -4,7 +4,7 @@ title: Resistance & Retaliation
 category: Domination
 status: draft
 version: 0.1
-author: Ben Menzies
+author: Ben Menzies (benzies)
 created: 2025-07-20
 modified: 2025-07-20
 tags:
@@ -28,7 +28,7 @@ To neutralise resistance, punish dissent, and restore perceived dominance over t
 - Narcissistic rage and reactive abuse
 - Trauma response research in DV survivors
 
-# Techniques 
+# Techniques
 
 | ID       | S:ID | Name                   | Description |
 |----------|------|------------------------|-------------|

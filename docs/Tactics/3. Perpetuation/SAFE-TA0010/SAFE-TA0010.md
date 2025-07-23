@@ -4,7 +4,7 @@ title: Propagation
 category: Perpetuation
 status: draft
 version: 0.1
-author: Ben Menzies
+author: Ben Menzies (benzies)
 created: 2025-07-20
 modified: 2025-07-20
 tags:
@@ -28,7 +28,7 @@ To ensure abusive ideologies, methods, or patterns spread to others, sustaining 
 - Bystander recruitment and enabling dynamics
 - Social contagion in abuse
 
-# Techniques 
+# Techniques
 
 | ID       | S:ID | Name                   | Description |
 |----------|------|------------------------|-------------|

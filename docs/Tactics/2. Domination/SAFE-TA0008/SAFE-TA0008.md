@@ -4,7 +4,7 @@ title: Exploitation
 category: Perpetuation
 status: draft
 version: 0.1
-author: Ben Menzies
+author: Ben Menzies (benzies)
 created: 2025-07-20
 modified: 2025-07-20
 tags:
@@ -28,7 +28,7 @@ To extract value from the victim—emotional, financial, reputational, or labour
 - Reports on digital exploitation (e.g. non-consensual image sharing)
 - Coerced social media posting / online persona curation
 
-# Techniques 
+# Techniques
 
 | ID       | S:ID | Name                   | Description |
 |----------|------|------------------------|-------------|
